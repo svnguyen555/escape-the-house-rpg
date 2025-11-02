@@ -28,4 +28,5 @@ A text-based C++ RPG where players explore a haunted house, battle monsters, and
 - The game was originally designed to be ran on replit so there may be issues running certain code or displaying ASCII art when running on anything else.
 - However the game should be able to run just fine on any other IDE or terminal.
 
-
+## Author
+Sang Nguyen | Computer Science Student – California State University, Sacramento 
